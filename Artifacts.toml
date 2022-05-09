@@ -1,0 +1,288 @@
+[[HGSCVRP]]
+arch = "aarch64"
+git-tree-sha1 = "95548e8c05211aa79bd43492ccc9addc5c4514c8"
+os = "macos"
+
+    [[HGSCVRP.download]]
+    sha256 = "b1c0cb862bfbc42b7e57e4a9302ab70f112c7e875dd91f23cf1e63a52215ce84"
+    url = "https://github.com/JuliaBinaryWrappers/HGSCVRP_jll.jl/releases/download/HGSCVRP-v2.0.0+0/HGSCVRP.v2.0.0.aarch64-apple-darwin.tar.gz"
+[[HGSCVRP]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4e8b3a3c89f37a23c45ab7c8a57d079b8fe6e5fc"
+libc = "glibc"
+os = "linux"
+
+    [[HGSCVRP.download]]
+    sha256 = "13bc4c3dddb644d1f120dd796510bc301586a92c6a18e7c34c3e7684fd74d43d"
+    url = "https://github.com/JuliaBinaryWrappers/HGSCVRP_jll.jl/releases/download/HGSCVRP-v2.0.0+0/HGSCVRP.v2.0.0.aarch64-linux-gnu-cxx03.tar.gz"
+[[HGSCVRP]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "836d2d36be94239d9fa685f48630b7d6740b43fa"
+libc = "glibc"
+os = "linux"
+
+    [[HGSCVRP.download]]
+    sha256 = "51c91faee48405dc4bc4ab68b17fdbd8e16b0d449eb4b8226cab513fe44bf07f"
+    url = "https://github.com/JuliaBinaryWrappers/HGSCVRP_jll.jl/releases/download/HGSCVRP-v2.0.0+0/HGSCVRP.v2.0.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[HGSCVRP]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d540d4ba17d79b9ef6e8fa258222ba3d1c223e04"
+libc = "musl"
+os = "linux"
+
+    [[HGSCVRP.download]]
+    sha256 = "bd10732278a962b6af001473fe3fac8810d3b1b587066334ec3d138bf4a65ac7"
+    url = "https://github.com/JuliaBinaryWrappers/HGSCVRP_jll.jl/releases/download/HGSCVRP-v2.0.0+0/HGSCVRP.v2.0.0.aarch64-linux-musl-cxx03.tar.gz"
+[[HGSCVRP]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e0d0d976425ba0d86f4f9876f0891d28b9f30e6e"
+libc = "musl"
+os = "linux"
+
+    [[HGSCVRP.download]]
+    sha256 = "6c025ddc2e4051d9b66324370cfb105ddf6968189d10e6d3308d89f848f5077e"
+    url = "https://github.com/JuliaBinaryWrappers/HGSCVRP_jll.jl/releases/download/HGSCVRP-v2.0.0+0/HGSCVRP.v2.0.0.aarch64-linux-musl-cxx11.tar.gz"
+[[HGSCVRP]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "8a3e76d11e5c301eab2519b9ea250b431323a091"
+libc = "glibc"
+os = "linux"
+
+    [[HGSCVRP.download]]
+    sha256 = "afb0199c2e002762b69afd48684daaa78ee3d34937119fb2e671992d4a88a6dd"
+    url = "https://github.com/JuliaBinaryWrappers/HGSCVRP_jll.jl/releases/download/HGSCVRP-v2.0.0+0/HGSCVRP.v2.0.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[HGSCVRP]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9b1c5e9a455ddaf0d1b1f9fb1b2ea747e4d8fac1"
+libc = "glibc"
+os = "linux"
+
+    [[HGSCVRP.download]]
+    sha256 = "83c213f5c939d9dffa90faf243d870e8214d122894fefda99578089086dd824c"
+    url = "https://github.com/JuliaBinaryWrappers/HGSCVRP_jll.jl/releases/download/HGSCVRP-v2.0.0+0/HGSCVRP.v2.0.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[HGSCVRP]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a6c352f66d6d4df42e09e264a5a8d657f6052456"
+libc = "musl"
+os = "linux"
+
+    [[HGSCVRP.download]]
+    sha256 = "1a0f8070feb1ff596d17f003b44c5f648ef7c8a642c1a40f084ed5902dea0ff3"
+    url = "https://github.com/JuliaBinaryWrappers/HGSCVRP_jll.jl/releases/download/HGSCVRP-v2.0.0+0/HGSCVRP.v2.0.0.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[HGSCVRP]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "361668ae40c668b04d0479ee7e0c3e755b9dcf96"
+libc = "musl"
+os = "linux"
+
+    [[HGSCVRP.download]]
+    sha256 = "c9e1fc71ca77b1a81f54498b596374ce9e7d2002ed0cb6784ae8430acbc0a15e"
+    url = "https://github.com/JuliaBinaryWrappers/HGSCVRP_jll.jl/releases/download/HGSCVRP-v2.0.0+0/HGSCVRP.v2.0.0.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[HGSCVRP]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "990b5e1e884349848be4bcb8db8a47902b702a30"
+libc = "glibc"
+os = "linux"
+
+    [[HGSCVRP.download]]
+    sha256 = "d3529d5fde00a43b664a66c50c708dc3a699b654b64e2ddc8142620a32ddcbbd"
+    url = "https://github.com/JuliaBinaryWrappers/HGSCVRP_jll.jl/releases/download/HGSCVRP-v2.0.0+0/HGSCVRP.v2.0.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[HGSCVRP]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "fd3fbc7f4b7063551c9930f9e5d6998cb7bb6fa5"
+libc = "glibc"
+os = "linux"
+
+    [[HGSCVRP.download]]
+    sha256 = "c5f0f777122363297e4b2bada054d9ce985d2ce95ed131195520f1688e0f6682"
+    url = "https://github.com/JuliaBinaryWrappers/HGSCVRP_jll.jl/releases/download/HGSCVRP-v2.0.0+0/HGSCVRP.v2.0.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[HGSCVRP]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "cd6ba5faeff6682b1301eb632ffe474ae1d7e65f"
+libc = "musl"
+os = "linux"
+
+    [[HGSCVRP.download]]
+    sha256 = "56c1a0f0c51e56be3e0284ea88a99a65e801424890a1f2629bf3ff2636689a62"
+    url = "https://github.com/JuliaBinaryWrappers/HGSCVRP_jll.jl/releases/download/HGSCVRP-v2.0.0+0/HGSCVRP.v2.0.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[HGSCVRP]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "63aa7dff1eeebf5655a56685dde6e8c0e5400065"
+libc = "musl"
+os = "linux"
+
+    [[HGSCVRP.download]]
+    sha256 = "392e8f6eb805dc7a599a02e2155030ac6a068d4b6623f13de484aa99c926ed25"
+    url = "https://github.com/JuliaBinaryWrappers/HGSCVRP_jll.jl/releases/download/HGSCVRP-v2.0.0+0/HGSCVRP.v2.0.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[HGSCVRP]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b7daf00e42c512c5fa576592c760742409c868fd"
+libc = "glibc"
+os = "linux"
+
+    [[HGSCVRP.download]]
+    sha256 = "82c2a10c0dfbc2fb135ff2351941234500eb234efbd3d3618c35f17ed5093f50"
+    url = "https://github.com/JuliaBinaryWrappers/HGSCVRP_jll.jl/releases/download/HGSCVRP-v2.0.0+0/HGSCVRP.v2.0.0.i686-linux-gnu-cxx03.tar.gz"
+[[HGSCVRP]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "75de69fd299b24889daf4d7aca3cd2128b1beffb"
+libc = "glibc"
+os = "linux"
+
+    [[HGSCVRP.download]]
+    sha256 = "8788f9c04d14798587a422b68c70e369f30481787f2213a95b8fc1eae22caedf"
+    url = "https://github.com/JuliaBinaryWrappers/HGSCVRP_jll.jl/releases/download/HGSCVRP-v2.0.0+0/HGSCVRP.v2.0.0.i686-linux-gnu-cxx11.tar.gz"
+[[HGSCVRP]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a13fb793845a91245d991c80bf8d085d7be18239"
+libc = "musl"
+os = "linux"
+
+    [[HGSCVRP.download]]
+    sha256 = "053de92b2e52f5c1a387b368b79867a26280a3668ac2737df733e10ad6156fc3"
+    url = "https://github.com/JuliaBinaryWrappers/HGSCVRP_jll.jl/releases/download/HGSCVRP-v2.0.0+0/HGSCVRP.v2.0.0.i686-linux-musl-cxx03.tar.gz"
+[[HGSCVRP]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "14f52e5748bf075b675dcb03c3b161d07e08d2b5"
+libc = "musl"
+os = "linux"
+
+    [[HGSCVRP.download]]
+    sha256 = "f883f2b50d9e8b1bc1c9e569396291916856cd8776975f4d3dac87af952ceeb6"
+    url = "https://github.com/JuliaBinaryWrappers/HGSCVRP_jll.jl/releases/download/HGSCVRP-v2.0.0+0/HGSCVRP.v2.0.0.i686-linux-musl-cxx11.tar.gz"
+[[HGSCVRP]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "55237ad73597513b24f0f19f0f1730b9f3447edb"
+os = "windows"
+
+    [[HGSCVRP.download]]
+    sha256 = "008cdb511ffaa7f6a685c466f64da481bfb7656b6a3e527ebab0ab4ce8dcdbae"
+    url = "https://github.com/JuliaBinaryWrappers/HGSCVRP_jll.jl/releases/download/HGSCVRP-v2.0.0+0/HGSCVRP.v2.0.0.i686-w64-mingw32-cxx03.tar.gz"
+[[HGSCVRP]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e63ef2ab16960fca201d1f7b3565b3cb5f1446bd"
+os = "windows"
+
+    [[HGSCVRP.download]]
+    sha256 = "6029900cc039333d55bd136e4d3c55c1520909d0a9b843e38ff6269a1ffa7610"
+    url = "https://github.com/JuliaBinaryWrappers/HGSCVRP_jll.jl/releases/download/HGSCVRP-v2.0.0+0/HGSCVRP.v2.0.0.i686-w64-mingw32-cxx11.tar.gz"
+[[HGSCVRP]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "534ad90f1bb9b9d082e715ca25c04c9535312609"
+libc = "glibc"
+os = "linux"
+
+    [[HGSCVRP.download]]
+    sha256 = "f81b7cd499261f248d14ce296bbd0368c8cfa86269ed522e1d1bbe641a4e7ab7"
+    url = "https://github.com/JuliaBinaryWrappers/HGSCVRP_jll.jl/releases/download/HGSCVRP-v2.0.0+0/HGSCVRP.v2.0.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[HGSCVRP]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7504245ba95f1ccaa045613355739164ccb6c6c1"
+libc = "glibc"
+os = "linux"
+
+    [[HGSCVRP.download]]
+    sha256 = "cd298309df255886cd3facca564d568e44b5f03c832b32f88e9f8c9a787a0380"
+    url = "https://github.com/JuliaBinaryWrappers/HGSCVRP_jll.jl/releases/download/HGSCVRP-v2.0.0+0/HGSCVRP.v2.0.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[HGSCVRP]]
+arch = "x86_64"
+git-tree-sha1 = "1b7b337c204a31c931511327a49c87dff9fd6f63"
+os = "macos"
+
+    [[HGSCVRP.download]]
+    sha256 = "e4dcadee10f6719663ba669ac3354dc644ffdaea3619c6f280091f109d8606b6"
+    url = "https://github.com/JuliaBinaryWrappers/HGSCVRP_jll.jl/releases/download/HGSCVRP-v2.0.0+0/HGSCVRP.v2.0.0.x86_64-apple-darwin.tar.gz"
+[[HGSCVRP]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "6ea715416317ef2791fc1509728bcdd429f3d7b0"
+libc = "glibc"
+os = "linux"
+
+    [[HGSCVRP.download]]
+    sha256 = "80215d23f6da1aa4924b23acff0352fb3338e7cd21584cf17dc5c58cb0195a48"
+    url = "https://github.com/JuliaBinaryWrappers/HGSCVRP_jll.jl/releases/download/HGSCVRP-v2.0.0+0/HGSCVRP.v2.0.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[HGSCVRP]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "db377605dd7a74a000022454ad2c95ef95731820"
+libc = "glibc"
+os = "linux"
+
+    [[HGSCVRP.download]]
+    sha256 = "7d3e9d9f8e962b4b27fbaa847be64584ec49fe9c2f54ababd2708f27a2096aed"
+    url = "https://github.com/JuliaBinaryWrappers/HGSCVRP_jll.jl/releases/download/HGSCVRP-v2.0.0+0/HGSCVRP.v2.0.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[HGSCVRP]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "3ccac1f0f9607dd55ff0dc40ffc0152e616bfe29"
+libc = "musl"
+os = "linux"
+
+    [[HGSCVRP.download]]
+    sha256 = "bd380beadf16159b23b679cd10475b1b3ab07d7d01b4dedfbce1510e19f1e58b"
+    url = "https://github.com/JuliaBinaryWrappers/HGSCVRP_jll.jl/releases/download/HGSCVRP-v2.0.0+0/HGSCVRP.v2.0.0.x86_64-linux-musl-cxx03.tar.gz"
+[[HGSCVRP]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "990650612fecbfc8b38e8384769a5af0ae8d95e2"
+libc = "musl"
+os = "linux"
+
+    [[HGSCVRP.download]]
+    sha256 = "7f8cab53ee38977b26e41f388aa11352f1908974e7e00367581e620072278e41"
+    url = "https://github.com/JuliaBinaryWrappers/HGSCVRP_jll.jl/releases/download/HGSCVRP-v2.0.0+0/HGSCVRP.v2.0.0.x86_64-linux-musl-cxx11.tar.gz"
+[[HGSCVRP]]
+arch = "x86_64"
+git-tree-sha1 = "1e76bc3dfe750c36a7fd3f0adc1be5d036c19c48"
+os = "freebsd"
+
+    [[HGSCVRP.download]]
+    sha256 = "6f1250d9c2eba2ddd3b159505635fbff237393d539e61858f01715905265d38f"
+    url = "https://github.com/JuliaBinaryWrappers/HGSCVRP_jll.jl/releases/download/HGSCVRP-v2.0.0+0/HGSCVRP.v2.0.0.x86_64-unknown-freebsd.tar.gz"
+[[HGSCVRP]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "3d447a3a34847b1241aca9026a06f1962a101147"
+os = "windows"
+
+    [[HGSCVRP.download]]
+    sha256 = "929b4ec9d54f70daf667e1c1cb20595558be93dca3463c685a53195154799bd4"
+    url = "https://github.com/JuliaBinaryWrappers/HGSCVRP_jll.jl/releases/download/HGSCVRP-v2.0.0+0/HGSCVRP.v2.0.0.x86_64-w64-mingw32-cxx03.tar.gz"
+[[HGSCVRP]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "aa797852abf600ab90678789300e45e8ccd895e7"
+os = "windows"
+
+    [[HGSCVRP.download]]
+    sha256 = "b27ce7e9ceb779b8c7af08d86b129e4f02c0a2b1abb10e640fdbea94768d334d"
+    url = "https://github.com/JuliaBinaryWrappers/HGSCVRP_jll.jl/releases/download/HGSCVRP-v2.0.0+0/HGSCVRP.v2.0.0.x86_64-w64-mingw32-cxx11.tar.gz"
